@@ -61,7 +61,7 @@ button:hover {
 
 .photo-card {
   width: 250px;
-  border: 1.5px solid indigo;
+  border: 1.5px solid #808080;
   border-radius: 4px;
   overflow: hidden;
   box-shadow: 2px 2px 10px rgba(133, 97, 97, 0.1);
@@ -77,7 +77,7 @@ button:hover {
 .info {
   padding: 10px;
   font-size: 16px;
-  color: indigo;
+  color:darkslateblue;
 }
 
 .hidden{
